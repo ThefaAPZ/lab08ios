@@ -14,6 +14,8 @@
 		6ABD178E2C121C4700C31809 /* tarea08.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 6ABD178C2C121C4700C31809 /* tarea08.xcdatamodeld */; };
 		6ABD17902C121C4800C31809 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6ABD178F2C121C4800C31809 /* Assets.xcassets */; };
 		6ABD17932C121C4800C31809 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6ABD17912C121C4800C31809 /* LaunchScreen.storyboard */; };
+		6ABD179B2C121E6A00C31809 /* Curso.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ABD179A2C121E6A00C31809 /* Curso.swift */; };
+		6ABD179D2C12278900C31809 /* ViewControllerCrearCurso.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ABD179C2C12278900C31809 /* ViewControllerCrearCurso.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		6ABD178F2C121C4800C31809 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6ABD17922C121C4800C31809 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6ABD17942C121C4800C31809 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6ABD179A2C121E6A00C31809 /* Curso.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Curso.swift; sourceTree = "<group>"; };
+		6ABD179C2C12278900C31809 /* ViewControllerCrearCurso.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerCrearCurso.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,7 +65,9 @@
 				6ABD17832C121C4700C31809 /* AppDelegate.swift */,
 				6ABD17852C121C4700C31809 /* SceneDelegate.swift */,
 				6ABD17872C121C4700C31809 /* ViewController.swift */,
+				6ABD179A2C121E6A00C31809 /* Curso.swift */,
 				6ABD17892C121C4700C31809 /* Main.storyboard */,
+				6ABD179C2C12278900C31809 /* ViewControllerCrearCurso.swift */,
 				6ABD178F2C121C4800C31809 /* Assets.xcassets */,
 				6ABD17912C121C4800C31809 /* LaunchScreen.storyboard */,
 				6ABD17942C121C4800C31809 /* Info.plist */,
@@ -141,6 +147,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6ABD179B2C121E6A00C31809 /* Curso.swift in Sources */,
+				6ABD179D2C12278900C31809 /* ViewControllerCrearCurso.swift in Sources */,
 				6ABD17882C121C4700C31809 /* ViewController.swift in Sources */,
 				6ABD178E2C121C4700C31809 /* tarea08.xcdatamodeld in Sources */,
 				6ABD17842C121C4700C31809 /* AppDelegate.swift in Sources */,
